@@ -70,6 +70,7 @@ This project could be extended by:
 
 ## 📎 Project Files
 
+```text
 Trend-Analysis-of-US-Soybean-Production/
 ├── README.md
 ├── data/
@@ -82,6 +83,7 @@ Trend-Analysis-of-US-Soybean-Production/
 │   ├── chart2_crush_vs_stocks.png
 │   └── chart3_production_vs_crush.png
 └── .gitignore
+```
 
 ---
 
